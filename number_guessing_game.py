@@ -1,9 +1,8 @@
 import random
 
-choice = int(input("Guess the number between 1 and 100: ")
 random_value = random.randint(1, 100)
-
 while True:
+    choice = int(input("Guess the number between 1 and 100: "))
     if choice < random_value:
         print("Too low!")
     elif choice > random_value:
