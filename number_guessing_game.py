@@ -1,6 +1,6 @@
 import random
 
-choice = input("Guess the number between 1 and 100: ")
+choice = int(input("Guess the number between 1 and 100: ")
 random_value = random.randint(1, 100)
 
 while True:
