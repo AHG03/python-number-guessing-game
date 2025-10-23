@@ -16,9 +16,9 @@ You'll need Python 3 installed on your system to run this game.
 2.  Navigate to the directory where you saved number_guessing_game.py.
 3.  Run the game using the Python interpreter:
 
-   
+    ```bash
     python number_guessing_game.py
-    
+    ```
 ---
 
 ## 🎮 How to Play
